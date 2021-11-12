@@ -1,0 +1,28 @@
+{
+    "events": [
+        {
+            "id": "1234",
+            "title": "Heros of the Storm",
+            "time": "12:00",
+            "date": "Jan 09, 2022"
+        },
+        {
+            "id": "4356",
+            "title": "Star Craft",
+            "time": "15:00",
+            "date": "Feb 26, 2022"
+        },
+        {
+            "id": "0996",
+            "title": "Tactical Team Fight",
+            "time": "09:00",
+            "date": "Sep 12, 2022"
+        },
+        {
+            "id": "2255",
+            "title": "Over Cooked",
+            "time": "20:00",
+            "date": "Dec 24, 2022"
+        }
+    ]
+}
